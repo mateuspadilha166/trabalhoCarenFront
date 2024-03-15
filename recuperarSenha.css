@@ -27,6 +27,9 @@ body{
     border-radius: 20px;
     background: transparent;
     color: white;
+    border: solid slategrey;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 25px, rgba(0, 0, 0, .2);
 }
 .texto{
     text-align: center;
